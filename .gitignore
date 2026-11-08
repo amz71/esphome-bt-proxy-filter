@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# local helper scripts (not part of the component)
+update.sh
+tools/
+legacy/
